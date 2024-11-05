@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\wwwroot\\htmlpage.html",
+      "PackagePath": "staticwebassets\\htmlpage.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.NZWalks.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.NZWalks.API.props",
+      "PackagePath": "build\\NZWalks.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.NZWalks.API.props",
+      "PackagePath": "buildMultiTargeting\\NZWalks.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.NZWalks.API.props",
+      "PackagePath": "buildTransitive\\NZWalks.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

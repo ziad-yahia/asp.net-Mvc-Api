@@ -1,0 +1,38 @@
+﻿@model TaquliasRestaurant.Models.Ingredient
+
+@{
+    ViewData["Title"] = "Details";
+}
+<h1>@Model.Name Details</h1>
+<a asp-action="Create">Create New Ingredient</a>
+@if (Model.ProductIngredients != null && Model.ProductIngredients.Any())
+{
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ProductIngredients)
+            {
+             <tr>
+                 <th>@item.Product.Name</th>
+                 <th>@item.Product.Description</th>
+                 <th>@item.Product.Price</th>
+             </tr>   
+            }
+        </tbody>
+    </table>
+
+}else
+{
+    <div class="alert-primary"> No Ingredient Now</div>
+}
+
+<div>
+    <a asp-action="Index">Back To List</a>
+</div>

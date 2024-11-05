@@ -1,0 +1,62 @@
+﻿@model ReservationVm
+<h1> Reservation Confirmation</h1>
+
+<form asp-action="Confirmation" method="post">
+   
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Trip Name</th>
+                <th>Is Private</th>
+                <th>Adult Count</th>
+                <th>Child Count</th>
+                <th>Price</th>
+                <th>Trip SubTotal</th>
+                <th>Start Date</th>
+                <th>Phone</th>
+                <th></th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i =0; i < Model.ReservationDetailsVm?.Count;i++)
+            {
+                 <tr>
+                    <td>@Model.ReservationDetailsVm[i].TripName</td>
+                    <td>@Model.ReservationDetailsVm[i].PrivateTrip</td>
+                    <th>@Model.ReservationDetailsVm[i].adultCount</th>
+                    <th>@Model.ReservationDetailsVm[i].ChildCount</th>
+                    <td>@Model.ReservationDetailsVm[i].Price?.ToString("C")</td>
+                     <td>
+                        @{
+                            decimal tripprice = 0;
+                            var ChildDiscount = 0.5m;
+                            tripprice = (decimal)Model.ReservationDetailsVm[i].Price * (decimal)Model.ReservationDetailsVm[i].adultCount;
+
+                        }
+                        @tripprice.ToString("C")
+                     </td>
+                    <td>@Model.ReservationDetailsVm[i].StartDate</td>
+                    <td>@Model.ReservationDetailsVm[i].Phonenumber</td>
+                    <td><a class="btn btn-danger" asp-action="RemoveTrip" asp-route-id="@Model.ReservationDetailsVm[i].TripId">Remove Trip</a> </td>
+                   
+                 </tr>   
+            }
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><strong>Total :</strong></td>
+                <td class="bg-primary bg-gradient text-white fw-bold">@Model.TotalAmount.ToString("C")</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="form-group">
+        
+        <input type="submit" value="Confirm" class="btn btn-primary" />
+    </div>
+</form>

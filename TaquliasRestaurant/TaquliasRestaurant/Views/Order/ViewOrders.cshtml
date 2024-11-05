@@ -1,0 +1,38 @@
+﻿@model ICollection<Order>
+@{
+    ViewData["Title"] ="My Orders";
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Order Date</th>
+            <th>Total Amount</th>
+            <th>Order Item</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            @if (order.UserId == ViewBag.UserId)
+            {
+                <tr>
+                    <td>@order.OrderId</td>
+                    <td>@order.OrderDate.ToString("mm/dd/yyyy")</td>
+                    <td>@order.TotalAmount.ToString("C")</td>
+                    <td>
+                        <ul>
+                            @foreach (var item in order.OrderItems)
+                            {
+                                <li>@item.Product?.Name - @item.Quantity x @item.Price.ToString("C")</li>
+                            }
+                        </ul>
+                    </td>
+                </tr>
+            }
+           
+        }
+
+    </tbody>
+</table>

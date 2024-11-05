@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "BgBepKRN2A/mPFTGlSiBfdmsf7BfpN4rd65htipZTW4=",
+  "Source": "NZWalks.API",
+  "BasePath": "_content/NZWalks.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NZWalks.API\\wwwroot",
+      "Source": "NZWalks.API",
+      "ContentRoot": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\wwwroot\\",
+      "BasePath": "_content/NZWalks.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\wwwroot\\htmlpage.html",
+      "SourceId": "NZWalks.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\wwwroot\\",
+      "BasePath": "_content/NZWalks.API",
+      "RelativePath": "htmlpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\htmlpage.html"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Codes\\C#\\API\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4830AE-B7B2-4E4D-9CCA-C4B03AFFF8B9}|NZWalks.API\\NZWalks.API.csproj|e:\\codes\\c#\\api\\nzwalks\\nzwalks.api\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4830AE-B7B2-4E4D-9CCA-C4B03AFFF8B9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4830AE-B7B2-4E4D-9CCA-C4B03AFFF8B9}|NZWalks.API\\NZWalks.API.csproj|e:\\codes\\c#\\api\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4830AE-B7B2-4E4D-9CCA-C4B03AFFF8B9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4830AE-B7B2-4E4D-9CCA-C4B03AFFF8B9}|NZWalks.API\\NZWalks.API.csproj|e:\\codes\\c#\\api\\nzwalks\\nzwalks.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4830AE-B7B2-4E4D-9CCA-C4B03AFFF8B9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalkController.cs",
+              "DocumentMoniker": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\Controllers\\WalkController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalkController.cs",
+              "ToolTip": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\Controllers\\WalkController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WalkController.cs",
+              "ViewState": "AgIAAAkAAABQZmZmZmYkwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:03:47.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:43:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "E:\\Codes\\C#\\API\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:20:32.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

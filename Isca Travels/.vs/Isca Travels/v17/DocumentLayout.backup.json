@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Codes\\C#\\Isca Travels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|e:\\codes\\c#\\isca travels\\isca travels\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|solutionrelative:isca travels\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|e:\\codes\\c#\\isca travels\\isca travels\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|solutionrelative:isca travels\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|e:\\codes\\c#\\isca travels\\isca travels\\views\\reservation\\mytripreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|solutionrelative:isca travels\\views\\reservation\\mytripreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|e:\\codes\\c#\\isca travels\\isca travels\\views\\reservation\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|solutionrelative:isca travels\\views\\reservation\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|e:\\codes\\c#\\isca travels\\isca travels\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|solutionrelative:isca travels\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|e:\\codes\\c#\\isca travels\\isca travels\\views\\reservation\\reservationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|solutionrelative:isca travels\\views\\reservation\\reservationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|e:\\codes\\c#\\isca travels\\isca travels\\areas\\admin\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|solutionrelative:isca travels\\areas\\admin\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|e:\\codes\\c#\\isca travels\\isca travels\\repository\\confirmationrepostiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2972677-448E-4D4E-B7E3-0EE4DF8F87C0}|Isca Travels\\Isca Travels.csproj|solutionrelative:isca travels\\repository\\confirmationrepostiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Isca Travels\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Isca Travels\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAACgmZmZmZktwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:19:41.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationDetails.cshtml",
+              "DocumentMoniker": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Views\\Reservation\\ReservationDetails.cshtml",
+              "RelativeDocumentMoniker": "Isca Travels\\Views\\Reservation\\ReservationDetails.cshtml",
+              "ToolTip": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Views\\Reservation\\ReservationDetails.cshtml",
+              "RelativeToolTip": "Isca Travels\\Views\\Reservation\\ReservationDetails.cshtml",
+              "ViewState": "AgIAAGUAAAAANDMzMzMbwHIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:02:54.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Views\\Reservation\\Create.cshtml",
+              "RelativeDocumentMoniker": "Isca Travels\\Views\\Reservation\\Create.cshtml",
+              "ToolTip": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Views\\Reservation\\Create.cshtml",
+              "RelativeToolTip": "Isca Travels\\Views\\Reservation\\Create.cshtml",
+              "ViewState": "AgIAAGgAAAAANDMzMzMbwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:02:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Views\\Reservation\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Isca Travels\\Views\\Reservation\\Cart.cshtml",
+              "ToolTip": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Views\\Reservation\\Cart.cshtml",
+              "RelativeToolTip": "Isca Travels\\Views\\Reservation\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:02:33.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Areas\\Admin\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "Isca Travels\\Areas\\Admin\\Controllers\\TripController.cs",
+              "ToolTip": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Areas\\Admin\\Controllers\\TripController.cs",
+              "RelativeToolTip": "Isca Travels\\Areas\\Admin\\Controllers\\TripController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:44:23.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyTripReservation.cshtml",
+              "DocumentMoniker": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Views\\Reservation\\MyTripReservation.cshtml",
+              "RelativeDocumentMoniker": "Isca Travels\\Views\\Reservation\\MyTripReservation.cshtml",
+              "ToolTip": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Views\\Reservation\\MyTripReservation.cshtml",
+              "RelativeToolTip": "Isca Travels\\Views\\Reservation\\MyTripReservation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T15:24:02.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Isca Travels\\Controllers\\ReservationController.cs",
+              "ToolTip": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Isca Travels\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAEwI8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:53:57.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfirmationRepostiory.cs",
+              "DocumentMoniker": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Repository\\ConfirmationRepostiory.cs",
+              "RelativeDocumentMoniker": "Isca Travels\\Repository\\ConfirmationRepostiory.cs",
+              "ToolTip": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\Repository\\ConfirmationRepostiory.cs",
+              "RelativeToolTip": "Isca Travels\\Repository\\ConfirmationRepostiory.cs",
+              "ViewState": "AgIAAAwAAAAAMzMzMzMLwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:48:44.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

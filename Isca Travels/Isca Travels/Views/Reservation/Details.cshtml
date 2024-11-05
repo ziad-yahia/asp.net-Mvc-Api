@@ -1,0 +1,125 @@
+﻿@model Trip
+
+@{
+    ViewData["Title"] = "Details";
+}
+@*
+<div>
+    <h4>Trip</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Days)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Days)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ImgPath)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src="~/Images/@Model.ImgPath" style="width:150px" />
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Notes)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Notes)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Create">Back to List</a>
+</div>
+*@
+<center>
+    <h1 class=" text-secondary" style="font-size:5vh">@Model.Name</h1>
+
+</center>
+
+<hr />
+<div class="row p-4 ">
+    Trip Note : <p class="alert  alert-dark fs-5">* @Model.Notes *</p>
+</div>
+
+
+<section class="col-12 eight ">
+    <div class="row">
+        <div class="pho1 col-md-4 pho-high "></div>
+        <div class="pho5 col-md-4 pho-high "></div>
+        <div class="pho3 col-md-4 pho-high "></div>
+    </div>
+    <div class="row">
+        <div class="pho4 col-md-4 pho-high "></div>
+        <div class="pho8  col-md-4 pho-high "></div>
+        <div class="pho6 col-md-4 pho-high "></div>
+    </div>
+    <div class="row">
+        <div class="pho7 col-md-4 pho-high "></div>
+        <div class=" pho2 col-md-4 pho-high "></div>
+        <div class="pho9 col pho-high "></div>
+    </div>
+</section>
+
+
+
+<hr />
+<div class="row p-5" style="height:auto">
+    <div class="col-6">
+        <p class="fs-2 text ">
+            <strong>
+                Trip Days :
+                @Model.Days
+            </strong>
+        </p>
+    </div>
+    <div class="col-6 ">
+        <p class="fs-2 text ">
+            <strong>
+                Trip Price  :
+                @Model.Price.ToString("C")
+            </strong>
+
+        </p>
+    </div>
+</div>
+
+
+<div class="row p-4" style="overflow:hidden; height:auto; background-color:#f5f5f7">
+
+    <div class="col-lg-5 col-sm-12">
+        <strong>Trip Image:</strong>
+        <img src="@Url.Content("~/Images/" + Model.ImgPath)" class="card-img-top" alt="Model.Description" />
+    </div>
+
+    <div class="col-lg-7 col-sm-12">
+        <strong> Trip Description :</strong>
+        <p class="fs-4 p-3">
+            @Model.Description
+
+        </p>
+    </div>
+
+</div>
+<div class="col-12 mt-5">
+    <a class="fs-4 text-black" asp-area="Identity" asp-page="/Account/Login">Click Here To Reservation</a>
+</div>

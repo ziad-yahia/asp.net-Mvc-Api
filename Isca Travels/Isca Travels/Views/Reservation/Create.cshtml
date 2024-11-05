@@ -1,0 +1,144 @@
+﻿@using Isca_Travels.ViewModel
+@using Microsoft.AspNetCore.Identity
+@model ReservationVm 
+@inject SignInManager<ApplicationUser> SignInManager
+
+@{
+    ViewData["Title"] = "Create";
+}
+@*
+    <div class="row">
+    @foreach (Trip trip in Model.trips)
+    {
+        <div class="col-md-4">
+            <form asp-action="AddTrip"  method="post">
+                <div class="card" style="width:18rem">
+                    <img src="@Url.Content("~/Images/" + trip.ImgPath)" class="card-img-top" alt="@trip.Description" />
+                    <div class="card-body">
+                        <input type="hidden" name="Tripid" value="@trip.Id" />
+                        <p class="alert  alert-primary">@trip.Notes</p>
+                        @trip.Name - @trip.Price.ToString("C")
+                        <input type="hidden" value="@trip.Id" name="TripId" />
+                        <div class="form-group">
+                            <label class="control-label">Adult Count :</label>
+                            <input type="number" value="1" min="1" class="form-control" name="Adult" />
+                        </div>
+                        <div  class="form-group">
+                            <label class="control-label">Child Count :</label>
+                            <input type="number" value="0" min="0" class="form-control" name="Child" />
+                        </div>
+
+                        <div class="col">
+
+                            is private:
+                            <input class="form-check-input" type="checkbox" value="True" name="isprivate" />
+                        </div>
+                        <input type="submit" class="btn btn-primary" value="Make Reservation" />
+                    </div>
+                   <a class=" btn btn-dark" asp-action="persuit" asp-route-id="@trip.Id">persuit</a>
+                    <a class=" btn btn-dark" asp-action="Details" asp-route-id="@trip.Id" >Details</a>
+                </div>
+            </form>
+        </div>
+    }
+</div>
+*@
+
+<div class="headerCreate">
+    <section class="last_header">
+        <div class="banner">
+            <div class="title">   
+                <span class="fs-4">Adventure Begins</span>
+            </div>
+        </div>
+    </section>
+</div>
+<center>
+    <div class="col-5 mt-5">
+        <h1 class="fs-2 p-2" style="border-bottom:2px dashed black ">About Us!</h1>
+    </div>
+</center>
+<div class="container col-12 ">
+    <p class="fs-6">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged.
+        It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
+</div>
+
+<div class="container">
+
+    <div class="row mt-5" style="min-height:45Vh ">
+        <div class="col-lg-6 col-sm-12 wavimage">
+        </div>
+        <div class="col-lg-6 col-sm-12 text-center">
+            <p class="fs-5">
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                It has survived not only five centuries, but also the leap into electronic typesetting,
+                remaining essentially unchanged.
+            </p>
+        </div>
+    </div>
+
+</div>
+
+
+<center>
+    <div class="col-5 mt-5">
+        <h1 class="fs-2 p-2" style="border-bottom:2px dashed black ">Entertainment</h1>
+    </div>
+</center>
+<div class="container-fluid col-12 third mt-5">
+</div>
+
+
+
+<center>
+    <div class="col-4 mt-3">
+        <h1 class="fs-2 p-2" style="border-bottom:2px dashed black ">Our Trip</h1>
+    </div>
+</center>
+
+
+<div class="row mt-3 col-12 justify-content-around">
+    @foreach (Trip trip in Model.trips)
+    {
+        <div class="col-md-3 m-3">
+           
+                <div class="card" style="width:18rem">
+                    <img src="@Url.Content("~/Images/" + trip.ImgPath)" class="card-img-top" alt="@trip.Description" />
+                    <div class="card-body">
+                    <h2 class="fs-5 text-secondary">    @trip.Name  </h2>
+                    <h2 class="fs-6">   @trip.Description  </h2>
+
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <div class="p-4">
+                            <a class=" btn btn-secondary" asp-action="ReservationDetails" asp-route-id="@trip.Id"> Reservation&Details</a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="row justify-content-evenly">
+                            <a class=" btn btn-outline-dark fs-6  col-4" asp-action="Details" asp-route-id="@trip.Id">Details</a>
+                            <span class="fs-7   col-6">  @trip.Price.ToString("C")  </span>
+                        </div>
+
+                    }
+
+
+                </div>
+                   
+                   
+                  
+                </div>
+            
+        </div>
+    }
+</div>

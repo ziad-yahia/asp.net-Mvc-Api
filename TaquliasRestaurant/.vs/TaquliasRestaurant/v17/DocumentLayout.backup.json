@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|c:\\users\\zeyad yahia\\source\\repos\\taquliasrestaurant\\taquliasrestaurant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|solutionrelative:taquliasrestaurant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|c:\\users\\zeyad yahia\\source\\repos\\taquliasrestaurant\\taquliasrestaurant\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|solutionrelative:taquliasrestaurant\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|c:\\users\\zeyad yahia\\source\\repos\\taquliasrestaurant\\taquliasrestaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|solutionrelative:taquliasrestaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|c:\\users\\zeyad yahia\\source\\repos\\taquliasrestaurant\\taquliasrestaurant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|solutionrelative:taquliasrestaurant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|c:\\users\\zeyad yahia\\source\\repos\\taquliasrestaurant\\taquliasrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F16824-4C6E-4A63-B316-17DC732B7730}|TaquliasRestaurant\\TaquliasRestaurant.csproj|solutionrelative:taquliasrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "TaquliasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "TaquliasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:00:50.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaquliasRestaurant\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "TaquliasRestaurant\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAB4AAACAZmZmZmYkwDMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T13:15:54.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TaquliasRestaurant\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TaquliasRestaurant\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABoAAADAzMzMzMwmwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:55:17.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaquliasRestaurant\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaquliasRestaurant\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:54:04.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Program.cs",
+              "RelativeDocumentMoniker": "TaquliasRestaurant\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEYAD YAHIA\\source\\repos\\TaquliasRestaurant\\TaquliasRestaurant\\Program.cs",
+              "RelativeToolTip": "TaquliasRestaurant\\Program.cs",
+              "ViewState": "AgIAACoAAABAZmZmZmYkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:48:33.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

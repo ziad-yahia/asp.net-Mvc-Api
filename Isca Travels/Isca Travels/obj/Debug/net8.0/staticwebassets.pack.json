@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Isca Travels.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Isca Travels.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\5445621a-c2c3-4ced-bae6-4c5067a9c086pexels-alexazabache-3214972.jpg",
+      "PackagePath": "staticwebassets\\Images\\5445621a-c2c3-4ced-bae6-4c5067a9c086pexels-alexazabache-3214972.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\65954146-3510-4b32-8392-98b14af5b7fbwallpaperflare.com_wallpaper (10).jpg",
+      "PackagePath": "staticwebassets\\Images\\65954146-3510-4b32-8392-98b14af5b7fbwallpaperflare.com_wallpaper (10).jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-alexazabache-3214972.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-alexazabache-3214972.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-axp-photography-500641970-18934607.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-axp-photography-500641970-18934607.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-axp-photography-500641970-18934665.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-axp-photography-500641970-18934665.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-dajana-reci-289671698-16247278.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-dajana-reci-289671698-16247278.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-diego-f-parra-33199-15131561.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-diego-f-parra-33199-15131561.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-diego-f-parra-33199-15131563.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-diego-f-parra-33199-15131563.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-diego-f-parra-33199-15131582.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-diego-f-parra-33199-15131582.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-diego-f-parra-33199-15188027.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-diego-f-parra-33199-15188027.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-diego-f-parra-33199-15188088.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-diego-f-parra-33199-15188088.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-diego-f-parra-33199-15188105.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-diego-f-parra-33199-15188105.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-moe-salah-3649681-5461689.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-moe-salah-3649681-5461689.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-photo-14360294.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-photo-14360294.jpeg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\Luxor\\pexels-reneterp-2482317.jpg",
+      "PackagePath": "staticwebassets\\Images\\Luxor\\pexels-reneterp-2482317.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\c5190fcc-8bac-43e8-ae78-e8249529f642pexels-photo-14360294.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c5190fcc-8bac-43e8-ae78-e8249529f642pexels-photo-14360294.jpeg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\c797ad99-95ed-469d-9845-0b8fe13649f9pexels-paulo-veloso-724211738-27894855.jpg",
+      "PackagePath": "staticwebassets\\Images\\c797ad99-95ed-469d-9845-0b8fe13649f9pexels-paulo-veloso-724211738-27894855.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\d2f3bcb3-ec72-473c-bf58-f8884b9a40c2wallpaperflare.com_wallpaper (10).jpg",
+      "PackagePath": "staticwebassets\\Images\\d2f3bcb3-ec72-473c-bf58-f8884b9a40c2wallpaperflare.com_wallpaper (10).jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\Images\\pexels-thais-cordeiro-2213281-3873681.jpg",
+      "PackagePath": "staticwebassets\\Images\\pexels-thais-cordeiro-2213281-3873681.jpg"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Codes\\C#\\Isca Travels\\Isca Travels\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Isca Travels.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Isca Travels.props",
+      "PackagePath": "build\\Isca Travels.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Isca Travels.props",
+      "PackagePath": "buildMultiTargeting\\Isca Travels.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Isca Travels.props",
+      "PackagePath": "buildTransitive\\Isca Travels.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

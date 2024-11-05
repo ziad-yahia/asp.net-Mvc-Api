@@ -1,0 +1,35 @@
+﻿@model IEnumerable<TaquliasRestaurant.Models.Product>
+
+@{
+    ViewData["Title"] = "Tequilas Menu Items";
+}
+
+<h1>Tequilas Menu Items</h1>
+
+<p>
+    <a asp-action="Create">Create New Item</a>
+</p>
+<!--
+                <a asp-action="Edit" asp-route-id="item.ProductId">Edit</a> |
+                <a asp-action="Details" asp-route-id="item.ProductId">Details</a> |
+                
+-->
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4" >
+           <div class="card" style="width:18rem;">
+                <img src="~/images/@item.ImageUrl" alt="@item.Description" class="card-img-top fixed-image-height" />
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text">@item.Price.ToString("C")</p>
+                    <p class="card-text">Quantity In Stock: @item.Stock</p>
+                        <a asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-outline-warning"><i class="bi bi-pencil-fill">Edit</i></a>
+                        <a asp-action="Delete" asp-route-id="@item.ProductId" class="btn btn-outline-danger"><i class="bi bi-pencil-fill">Delete</i></a>
+                </div>
+           </div>
+        </div>
+    }
+</div>

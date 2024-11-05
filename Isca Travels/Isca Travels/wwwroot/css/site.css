@@ -1,0 +1,203 @@
+@media screen and (max-width: 320px) {
+
+    .headerCreate {
+        width: 100%;
+        height: 30vh;
+        background: url(../Images/pexels-thais-cordeiro-2213281-3873681.jpg) no-repeat 0%/cover;
+        background-attachment: fixed;
+        background-blend-mode: soft-light;
+        position: relative;
+        top: 0%;
+        overflow: hidden;
+    }
+
+    .last_header {
+       display:none;
+    }
+
+    .banner {
+        display: none;
+    }
+
+    .title {
+        display: none;
+    }
+    aside {
+       display:none;
+    }
+    .whatsapp {
+        display:none;
+    }
+
+
+ }
+
+
+
+html {
+  font-size: 14px;
+ 
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+   
+}
+
+
+    .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+        box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    }
+
+    html {
+        position: relative;
+        min-height: 100%;
+    }
+
+    body {
+        margin-bottom: 60px;
+    }
+
+    .headerCreate {
+        width: 100%;
+        height: 80vh;
+        background: url(../Images/pexels-thais-cordeiro-2213281-3873681.jpg) no-repeat 0%/cover;
+/*        background-attachment: fixed;*/
+        background-blend-mode: soft-light;
+        position: relative;
+        top: 0%;
+        overflow: hidden;
+    }
+
+    .last_header {
+        position: relative;
+        max-width: 100%;
+        min-height: 250px;
+    }
+
+    .banner {
+        width: 350px;
+        height: 150px;
+        border: 5px solid darkgoldenrod;
+        position: absolute;
+        left: 20%;
+        top: 10%;
+    }
+
+    .title {
+        position: absolute;
+        top: 60%;
+        right: -20%;
+        width: 100%;
+        height: 90%;
+        background-color: rgb(245 245 245/90%);
+        padding: 20px 5px;
+        opacity: 0.7;
+    }
+
+        .title span {
+            color: rgb(29, 143, 105);
+            font-size: xx-large;
+        }
+
+    /*
+    aside
+*/
+    aside {
+        width: 2vw;
+        height: 25vh;
+        position: fixed;
+        z-index: 10;
+        margin: 0%;
+        padding: 0%;
+        top: 30%;
+        display: flex;
+        flex-flow: column nowrap;
+        right: 1%;
+    }
+
+.whatsapp:first-of-type {
+    background-color: rgb(25,135,84);
+}
+
+.whatsapp {
+    width: 100%;
+    height: 5vh;
+    display: block;
+    color: white;
+    margin: 1%;
+    padding: 1.5%;
+    font-family: "arial black";
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+    left: 40%;
+    transition: all 1s ease;
+    z-index: 3;
+}
+
+.third {
+    position: relative;
+    width: 100%;
+    min-height: 350px;
+    background: url('../Images/Luxor/pexels-diego-f-parra-33199-15131563.jpg') no-repeat center/cover;
+    background-attachment: fixed;
+    background-blend-mode: soft-light;
+}
+
+
+/*  */
+.wavimage {
+    
+    min-height:20vh;
+    background: url(../Images/Luxor/pexels-dajana-reci-289671698-16247278.jpg) no-repeat center/cover;
+}
+/* ----eight section --------- */
+.eight {
+    min-height: 90vh;
+}
+
+    .pho-high {
+        height: 200px;
+    }
+
+    .pho1 {
+        background: url(../Images/Luxor/pexels-alexazabache-3214972.jpg) no-repeat center/cover;
+    }
+
+    .pho2 {
+        background: url(../Images/Luxor/pexels-axp-photography-500641970-18934607.jpg) no-repeat center/cover;
+    }
+
+    .pho3 {
+        background: url(../Images/Luxor/pexels-axp-photography-500641970-18934665.jpg) no-repeat center/cover;
+    }
+
+    .pho4 {
+        background: url(../Images/Luxor/pexels-diego-f-parra-33199-15131561.jpg) no-repeat center/cover;
+    }
+
+    .pho5 {
+        background: url(../Images/Luxor/pexels-diego-f-parra-33199-15131582.jpg) no-repeat center/cover;
+    }
+
+    .pho6 {
+        background: url(../Images/Luxor/pexels-diego-f-parra-33199-15188027.jpg) no-repeat center/cover;
+    }
+
+    .pho7 {
+        background: url(../Images/Luxor/pexels-diego-f-parra-33199-15188088.jpg) no-repeat center/cover;
+    }
+
+    .pho8 {
+        background: url(../Images/Luxor/pexels-moe-salah-3649681-5461689.jpg) no-repeat center/cover;
+    }
+
+    .pho9 {
+        background: url(../Images/Luxor/pexels-reneterp-2482317.jpg) no-repeat center/cover;
+    }
+
